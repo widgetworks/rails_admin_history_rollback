@@ -1,3 +1,8 @@
+# FORKED 
+
+Forked to support Rails 7 and RailsAdmin 3. Unfork and use base gem repo once https://github.com/jemcode/rails_admin_history_rollback/pull/30 and https://github.com/jemcode/rails_admin_history_rollback/pull/26 are merged in
+
+
 # Rails Admin History Rollback
 
 [![Gem Version](https://badge.fury.io/rb/rails_admin_history_rollback.svg)](http://badge.fury.io/rb/rails_admin_history_rollback)
