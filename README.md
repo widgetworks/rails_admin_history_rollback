@@ -1,3 +1,7 @@
+# About our Fork
+
+It takes the changes from this pr https://github.com/jemcode/rails_admin_history_rollback/pull/30. Once those get accepted back into the original repo, we can use that instead of our fork.
+
 # Rails Admin History Rollback
 
 [![Gem Version](https://badge.fury.io/rb/rails_admin_history_rollback.svg)](http://badge.fury.io/rb/rails_admin_history_rollback)
